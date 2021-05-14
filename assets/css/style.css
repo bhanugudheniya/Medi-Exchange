@@ -1732,3 +1732,22 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.doctoroadDiv{
+  /* background-color: yellow; */
+}
+
+.DoctorLoadMore{
+  /* background-color: pink; */
+  /* padding: 2%; */
+
+}
+
+@media screen and (min-width:601px) {
+  .DoctorLoadMore{
+    /* background-color: #166ab5; */
+    width: 100%;
+    margin-left: 30%;
+    cursor: pointer;
+  }
+}
